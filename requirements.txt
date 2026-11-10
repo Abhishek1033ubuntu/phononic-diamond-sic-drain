@@ -1,0 +1,12 @@
+# Core Scientific & Mathematical Stack
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# Circuit & Physics Simulation
+PySpice>=1.5.0
+lammps>=2023.8.2  # Python bindings (requires underlying LAMMPS shared library)
+
+# System Utilities
+tqdm>=4.65.0
