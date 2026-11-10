@@ -74,6 +74,14 @@ pip install numpy matplotlib PySpice
 
 ```
 
+# Non-Python C++ Binaries Required
+
+```
+sudo apt-get update
+sudo apt-get install -y lammps openfoam ngspice
+
+```
+
 ### Reproducing the NEMD Diamond/SiC Run
 
 Run the contained LAMMPS script `in.diamond_sic_nemd`:
