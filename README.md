@@ -109,6 +109,36 @@ This project was co-engineered through multi-turn collaborative simulation with 
 * **GitHub Profile:** [@Abhishek1033ubuntu](https://github.com/Abhishek1033ubuntu)
 * **Location:** Madhya Pradesh, India
 
+## Repository Structure
+
+```
+phononic-diamond-sic-drain/
+├── .github/
+│   └── workflows/
+│       └── simulation-tests.yml        # CI test workflow for Python solvers
+├── data/
+│   ├── temp_profile_baseline.profile    # LAMMPS NEMD metal baseline data
+│   └── temp_profile_diamond.profile     # LAMMPS NEMD CVD Diamond/4H-SiC profile data
+├── docs/
+│   ├── manuscript.md                    # Full technical manuscript draft
+│   └── figures/
+│       ├── nemd_diamond_sic_profile.png # Atomistic interface conduction curve
+│       ├── radial_hbn_forwarding.png    # OpenFOAM 2D anisotropic thermal plume
+│       └── signal_path_integrity.png    # PySpice 50 GHz EMI & drift comparison
+├── notebooks/
+│   └── phononic_drain_master.ipynb      # Self-contained end-to-end Google Colab notebook
+├── scripts/
+│   ├── in.ballistic_drain_solid         # LAMMPS script (Ti/TiN metal baseline)
+│   ├── in.diamond_sic_nemd             # LAMMPS script (CVD Diamond / 4H-SiC)
+│   ├── openfoam_thermal_builder.py      # OpenFOAM case directory generator
+│   └── thermal_and_signal_solver.py     # NEMD parsing, OpenFOAM solver, PySpice validation
+├── CITATION.cff                         # GitHub native academic citation metadata
+├── LICENSE                              # MIT License
+├── README.md                            # Primary repository landing page
+└── requirements.txt                     # Python dependencies
+
+```
+
 ### Sponsor & Support Links
 
 If you find this research useful in your open-source modeling, hardware design, or thermal management projects, consider supporting the ongoing research:
