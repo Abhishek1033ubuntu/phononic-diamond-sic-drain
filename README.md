@@ -4,7 +4,9 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--6913--096X-green.svg)](https://orcid.org/0009-0004-6913-096X)
 [![AI Collaboration - Gemini](https://img.shields.io/badge/Co--Engineered%20With-Google%20Gemini-orange.svg)](https://gemini.google.com)
 [![License - MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/Abhishek1033ubuntu)  
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/Abhishek1033ubuntu) 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24103050-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.24103050)  
+
 
 An open-source multi-physics research suite establishing physical-layer elimination of sensor thermal drift and 50 GHz dynamic Electromagnetic Interference (EMI) in high-power industrial sensor nodes. 
 
