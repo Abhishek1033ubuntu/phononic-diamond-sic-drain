@@ -69,16 +69,8 @@ To run the simulation suite in Google Colab or local Linux environments:
 
 ```bash
 sudo apt-get update
-sudo apt-get install -y lammps ngspice
+sudo apt-get install -y lammps ngspice openfoam
 pip install numpy matplotlib PySpice
-
-```
-
-# Non-Python C++ Binaries Required
-
-```
-sudo apt-get update
-sudo apt-get install -y lammps openfoam ngspice
 
 ```
 
