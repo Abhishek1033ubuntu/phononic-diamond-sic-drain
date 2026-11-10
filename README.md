@@ -5,6 +5,15 @@
 [![AI Collaboration - Gemini](https://img.shields.io/badge/Co--Engineered%20With-Google%20Gemini-orange.svg)](https://gemini.google.com)
 [![License - MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/Abhishek1033ubuntu) 
+<!-- Software & Simulation Stack Badges -->
+[![LAMMPS](https://img.shields.io/badge/LAMMPS-NEMD_Molecular_Dynamics-00599C?style=flat&logo=cplusplus&logoColor=white)](https://www.lammps.org/)
+[![OpenFOAM](https://img.shields.io/badge/OpenFOAM-2D_Thermal_CFD-005596?style=flat)](https://www.openfoam.com/)
+[![PySpice](https://img.shields.io/badge/PySpice-Circuit_%26_EMI_Solver-E34F26?style=flat)](https://pyspice.fabrice-salvaire.fr/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-Execution_Environment-F9AB00?style=flat&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-Applied_Math-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://scipy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-300_DPI_Plots-11557c?style=flat)](https://matplotlib.org/)  
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24103050-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.24103050)  
 
 
