@@ -120,7 +120,3 @@ If you find this research useful in your open-source modeling, hardware design, 
 ---
 
 *Copyright © 2026 Abhishek Singh. Open-source software released under the [MIT License](https://www.google.com/search?q=LICENSE).*
-
-```
-
-```
