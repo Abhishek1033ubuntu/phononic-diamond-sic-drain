@@ -3,7 +3,8 @@
 [![Author - Abhishek Singh](https://img.shields.io/badge/Author-Abhishek%20Singh-blue.svg)](https://github.com/Abhishek1033ubuntu)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--6913--096X-green.svg)](https://orcid.org/0009-0004-6913-096X)
 [![AI Collaboration - Gemini](https://img.shields.io/badge/Co--Engineered%20With-Google%20Gemini-orange.svg)](https://gemini.google.com)
-[![License - MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License - MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/Abhishek1033ubuntu)  
 
 An open-source multi-physics research suite establishing physical-layer elimination of sensor thermal drift and 50 GHz dynamic Electromagnetic Interference (EMI) in high-power industrial sensor nodes. 
 
@@ -146,6 +147,7 @@ If you find this research useful in your open-source modeling, hardware design, 
 * 💖 **GitHub Sponsors:** [Sponsor Abhishek1033ubuntu](https://github.com/sponsors/Abhishek1033ubuntu)
 * 🌐 **Zenodo Research Preprints:** Archive links hosted via [Zenodo Open Science](https://zenodo.org/)
 * 📧 **Contact & Inquiries:** Reach out via GitHub Issues or ORCID profile for academic collaboration.
+* | **PayPal** | [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/Abhishek1033ubuntu)  
 
 ---
 
