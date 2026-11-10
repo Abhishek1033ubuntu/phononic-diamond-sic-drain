@@ -125,9 +125,9 @@ phononic-diamond-sic-drain/
 ├── docs/
 │   ├── manuscript.md                    # Full technical manuscript draft
 │   └── figures/
-│       ├── nemd_diamond_sic_profile.png # Atomistic interface conduction curve
-│       ├── radial_hbn_forwarding.png    # OpenFOAM 2D anisotropic thermal plume
-│       └── signal_path_integrity.png    # PySpice 50 GHz EMI & drift comparison
+│       ├── [nemd_diamond_sic_profile.png](docs/figures/nemd_diamond_sic_profile.png) # Atomistic interface conduction curve
+│       ├── [radial_hbn_forwarding.png](docs/figures/radial_hbn_forwarding.png)    # OpenFOAM 2D anisotropic thermal plume
+│       └── [signal_path_integrity.png](docs/figures/signal_path_integrity.png)    # PySpice 50 GHz EMI & drift comparison
 ├── notebooks/
 │   └── phononic_drain_master.ipynb      # Self-contained end-to-end Google Colab notebook
 ├── scripts/
@@ -139,7 +139,6 @@ phononic-diamond-sic-drain/
 ├── LICENSE                              # MIT License
 ├── README.md                            # Primary repository landing page
 └── requirements.txt                     # Python dependencies
-
 ```
 
 ### Sponsor & Support Links
